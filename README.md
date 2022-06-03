@@ -10,3 +10,6 @@
 **Review:**
 - http://localhost:5000/items
 - http://localhost:5000/items/1
+
+**Swagger:**
+- http://localhost:5000/swagger/static/index.html
